@@ -63,7 +63,6 @@ Open a pull request with a clear title and description.
 
 ![Notes 2](https://github.com/navanee1609/Notes-app-using-Javascript/assets/120004894/c2fb7398-d716-4bbc-afd0-cfefcdd8e27d)
 
-![Notes 3](https://github.com/navanee1609/Notes-app-using-Javascript/assets/120004894/5df0254b-b722-458b-bb08-dbe1b72ced60)
 
 
 
